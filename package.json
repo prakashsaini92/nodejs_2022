@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prakash Saini",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashsaini92/nodejs_2022.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prakashsaini92/nodejs_2022/issues"
+  },
+  "homepage": "https://github.com/prakashsaini92/nodejs_2022#readme",
+  "description": ""
+}
